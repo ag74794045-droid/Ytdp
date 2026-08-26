@@ -4,13 +4,13 @@
     "subtitle": "Copy your Device ID and send it to Admin.",
     "admin_url": "https://t.me/awais_modder",
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
-    "maintenance": false,
+    "maintenance": true,
     "banned_devices": [
       "spammer_hwid_2"
     ]
   },
   "keys": {
-    "DP-8IX1A3": {
+    "HK-8IX1A3": {
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2026-08-27",

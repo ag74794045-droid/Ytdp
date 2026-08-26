@@ -1,2 +1,30 @@
-# Ytdp
-dashboards
+{
+  "settings": {
+    "title": "PREMIUM ACCESS",
+    "subtitle": "Copy your Device ID and send it to Admin.",
+    "admin_url": "https://t.me/awais_modder",
+    "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
+    "maintenance": false,
+    "banned_devices": [
+      "hacker_hwid_1",
+      "spammer_hwid_2"
+    ]
+  },
+  "keys": {
+    "DP-VIP-101": {
+      "status": "approved",
+      "expiry_date": "2026-12-31",
+      "hwid": [
+        "your_device_id_here",
+        "another_device_id_here"
+      ]
+    },
+    "DP-UNIVERSAL": {
+      "status": "approved",
+      "expiry_date": "2026-12-31",
+      "hwid": [
+        "ANY"
+      ]
+    }
+  }
+}

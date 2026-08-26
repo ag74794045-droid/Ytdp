@@ -9,5 +9,14 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {}
+  "keys": {
+    "DP-8IX1A3": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-27",
+      "hwid": [
+        "4d257b68acd77586"
+      ]
+    }
+  }
 }
